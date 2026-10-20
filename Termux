@@ -1,1 +1,17 @@
+# MULTI PLATFORM VIDEO DOWNLOADER
+# 📦 Installation
+
+#1. Install Termux from apk F-Droid
+
+https://f-droid.org/en/
+
+Termux Terminal emulator with packages
+
+#2. Download installer
+
+curl -L -o $PREFIX/bin/yt \https://github.com/xmdxnetx/Termux/raw/refs/heads/main/yt
+
+chmod 700 $PREFIX/bin/yt
+
+yt
 
